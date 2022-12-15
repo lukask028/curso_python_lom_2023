@@ -1,0 +1,55 @@
+{
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "workbench.editorAssociations": {
+        "*.html": "default"
+    },
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "terminal.external.windowsExec": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "terminal.integrated.profiles.windows": {
+        
+
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        
+        "GitBash": {
+            "path": "E:\\Downloads\\Git\\bin\\bash.exe"
+           
+        }
+    },
+    "[spring-boot-properties-yaml]": {
+    
+    },
+    "redhat.telemetry.enabled": true,
+    "rsp-ui.enableStartServerOnActivation": [
+        {
+            "id": "redhat.vscode-community-server-connector",
+            "name": "Community Server Connector",
+            "startOnActivation": true
+        }
+    ],
+    "window.zoomLevel": 1,
+    "workbench.startupEditor": "none",
+    "explorer.compactFolders": false,
+    "terminal.integrated.defaultProfile.osx": "",
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        "python": "cls ; python -u", 
+    },
+    "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
+    "code-runner.ignoreSelection": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "python.defaultInterpreterPath": "python",
+    
+
+}
